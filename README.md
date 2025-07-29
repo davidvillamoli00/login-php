@@ -15,7 +15,7 @@ Este proyecto es una aplicación web simple de login y registro desarrollada con
 - Gestión de sesiones
 
 ## Estructura del proyecto
-
+```
 /Login_register
 ├── index.php
 ├── login_register.php
@@ -26,3 +26,4 @@ Este proyecto es una aplicación web simple de login y registro desarrollada con
 ├── script.js
 ├── style.css
 └── README.md
+```
